@@ -5,7 +5,8 @@ import { MaterialCommunityIcons } from '@expo/vector-icons';
 import { Btn } from './Btn';
 import { Person } from './Person';
 import { Counter } from './Counter';
-import { Foo } from './Foo';
+
+
 
 
 export default function App() {
@@ -110,7 +111,6 @@ placeholderTextColor={"blue"}
 
 <Counter/>
 
-<Foo/>
 
     </View>
   );
